@@ -1,1 +1,5 @@
 streamlit
+audio_recorder_streamlit
+openai
+python-dotenv
+wave
